@@ -1,7 +1,7 @@
 # 📘 DSA Problems in Python
 
 This repository contains **Data Structures and Algorithms (DSA)** problems solved using **Python**.  
-The goal of this repository is to strengthen problem-solving skills and build a strong foundation for **coding interviews, competitive programming, and placements**.
+The goal of this repository is to strengthen problem-solving skills and build a strong foundation 
 
 ---
 
